@@ -1,0 +1,14 @@
+{
+    "name": "matheus/projeto-p1",
+    "autoload": {
+        "psr-4": {
+            "Matheus\\ProjetoP1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Lopes"
+        }
+    ],
+    "require": {}
+}
